@@ -1,7 +1,7 @@
 const fetch = require("./node-fetch/lib");
 
 // 全局变量，存储用户信息
-//如果你在厦门，则在以下“位置”后新增:   "厦门":社区名称及社区电话
+//如果你在厦门，则在以下“位置”后新增:   "厦门":"社区名称及社区电话"
 let info = {
   "学号": "xxxxxxxxxx",
   "密码": "xxxxxxxxxxx",
